@@ -1,0 +1,6 @@
+[submodule "gorilla"]
+	path = gorilla
+	url = git@github.com:ShishirPatil/gorilla.git
+[submodule "autogen"]
+	path = autogen
+	url = git@github.com:microsoft/autogen.git
